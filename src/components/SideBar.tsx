@@ -1,4 +1,3 @@
-import React from 'react'
 import { RiHomeLine } from 'react-icons/ri'
 import { CiBookmark, CiChat1 } from 'react-icons/ci'
 import { FaTeamspeak } from 'react-icons/fa'
